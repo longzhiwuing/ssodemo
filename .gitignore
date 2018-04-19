@@ -75,8 +75,7 @@ fabric.properties
 hs_err_pid*
 .gitignore
 .idea/
-pom.xml
-ssoclient1/
-ssoclient2/
-ssodemo.iml
-ssoserver/
+/ssoclient1/ssoclient1.iml
+/ssoclient2/ssoclient2.iml
+/ssoserver/ssoserver.iml
+/ssodemo.iml
